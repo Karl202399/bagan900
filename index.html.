@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+       <style>
+           
+          #head {
+              background-color :red;
+          } 
+           .topic {
+               background-color :blue;
+           }
+           body {
+               background :khaki
+              ;
+           }
+       </style>
+    </head>
+    
+    
+    
+    <body>
+    
+        <h1 id="head">Travel to Bagan //</h1>
+        <p class="topic">The day 27th Febuary 2038, we went to Mandalay with Ethan, the smart guy; a bad boy. So, we spend 3 days in Mandalay. We went down to Bagan; the famous place in Southeast asia.
+        
+    </body>
+</html>
